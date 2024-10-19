@@ -1,5 +1,5 @@
 // CSV URL for the sheet data
-const sheetURL = "https://cors-anywhere.herokuapp.com/https://docs.google.com/spreadsheets/d/19ZRZyMkKtSLdPJSiUeYnBwu40oP1uh76jvc2n666_Ks/pub?output=csv";
+const sheetURL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ5K9c8CgZpvo1pwR46JFBk6cjEHqfr8uyfENrfVcrfBRe469gSqbWe8D5fWVSTtAvZgnykFRrEKcD7/pub?output=csv";
 
 // Select the message element and button
 const messageElement = document.querySelector(".message");
